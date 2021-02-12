@@ -55,8 +55,6 @@ return(
                 <button  type="button" className="btn btn-outline-primary" value='cafeteira' onClick={this.Categoria}> Headset
                 </button> 
                 
-                </div>
-                <div className="">
                 <button  type="button" className="btn btn-outline-primary" value='torradeira'  onClick={this.Categoria}> Mouse
                 </button>
             
